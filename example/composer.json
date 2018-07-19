@@ -1,6 +1,6 @@
 {
   "require": {
     "guzzlehttp/guzzle": "~6.0",
-    "asjustas/guzzle-logger-middleware": "~0.0.2"
+    "asjustas/guzzle-logger-middleware": "~1.0"
   }
 }
