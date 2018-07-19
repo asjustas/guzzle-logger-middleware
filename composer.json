@@ -1,4 +1,5 @@
 {
+  "name": "asjustas/guzzle-logger-middleware",
   "require": {
     "php": ">=7.1",
     "guzzlehttp/guzzle": "~6.0"
