@@ -1,5 +1,8 @@
 {
   "name": "asjustas/guzzle-logger-middleware",
+  "description": "Guzzle middleware to log requests and responses",
+  "keywords": ["guzzle", "http", "middleware", "log", "logger"],
+  "license": "MIT",
   "require": {
     "php": ">=7.1",
     "guzzlehttp/guzzle": "~6.0"

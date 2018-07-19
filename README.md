@@ -3,7 +3,7 @@
 [![Latest Stable Version](https://poser.pugx.org/asjustas/guzzle-logger-middleware/v/stable)](https://packagist.org/packages/guzzle-logger-middleware)
 [![Latest Unstable Version](https://poser.pugx.org/asjustas/guzzle-logger-middleware/v/unstable)](https://packagist.org/packages/guzzle-logger-middleware)
 
-Middleware to help log requests.
+Guzzle middleware to log requests and responses.
 
 ## Installation
 
