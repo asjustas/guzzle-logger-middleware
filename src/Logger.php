@@ -102,6 +102,9 @@ class Logger
     private function setOptions(array $options): void
     {
         if (!isset($options['logger'])) {
+            $this->enabled = false;
+            $this->context = [];
+
             return;
         }
 
