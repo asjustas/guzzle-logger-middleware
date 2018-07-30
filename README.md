@@ -1,7 +1,7 @@
 # Guzzle logger middleware
 
-[![Latest Stable Version](https://poser.pugx.org/asjustas/guzzle-logger-middleware/v/stable)](https://packagist.org/packages/guzzle-logger-middleware)
-[![Latest Unstable Version](https://poser.pugx.org/asjustas/guzzle-logger-middleware/v/unstable)](https://packagist.org/packages/guzzle-logger-middleware)
+[![Latest Stable Version](https://poser.pugx.org/asjustas/guzzle-logger-middleware/v/stable)](https://packagist.org/packages/asjustas/guzzle-logger-middleware)
+[![Latest Unstable Version](https://poser.pugx.org/asjustas/guzzle-logger-middleware/v/unstable)](https://packagist.org/packages/asjustas/guzzle-logger-middleware)
 
 Guzzle middleware to log requests and responses.
 
