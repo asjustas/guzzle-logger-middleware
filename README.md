@@ -29,7 +29,6 @@ $stack
             function (RequestInterface $request, ?ResponseInterface $response, array $context) {
                 print_r(
                     [
-                        'yes' => true,
                         'uri' => (string)$request->getUri(),
                         'req' => (string)$request->getBody(),
                         'res' => $response ? (string)$response->getBody() : '',
